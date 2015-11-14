@@ -9,5 +9,6 @@
   <preference name="windows-target-version" value="8.0" />
   <preference name="windows-phone-target-version" value="8.1" />
   <vs:plugin name="cordova-plugin-camera" version="1.2.1-dev" />
+  <gap:plugin name="org.apache.cordova.camera" version="0.3.6" />
   <vs:platformSpecificValues />
 </widget>

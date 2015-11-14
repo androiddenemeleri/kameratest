@@ -1,0 +1,8 @@
+{
+    "cordova-plugin-camera": {
+        "source": {
+            "type": "local",
+            "path": "c:\\users\\coder\\documents\\visual studio 2013\\Projects\\KameraTest\\KameraTest\\plugins\\cordova-plugin-camera"
+        }
+    }
+}
